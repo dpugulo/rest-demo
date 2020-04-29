@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users": [
-    {  "id"="1", "UserName": "gvarol",  "Password":"test"  },
-    {   "id"="2", "UserName": "test",  "Password":"test"  }
+    {  "id":"1", "UserName": "gvarol",  "Password":"test"  },
+    {   "id":"2", "UserName": "test",  "Password":"test"  }
            
            ]
 }
